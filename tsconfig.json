@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "lib": ["DOM"],
+    "types": ["vite/client"],
+  },
+  "include": [
+    "src/**/*.ts"
+  ]
+}
